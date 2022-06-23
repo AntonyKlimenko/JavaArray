@@ -53,4 +53,3 @@ public class ArraySearcher {
         return -1;
     }
 }
-
