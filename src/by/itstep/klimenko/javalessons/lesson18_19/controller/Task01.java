@@ -1,8 +1,8 @@
-package by.itstep.klimenko.javalessons.lesson18.controller;
+package by.itstep.klimenko.javalessons.lesson18_19.controller;
 
-import by.itstep.klimenko.javalessons.lesson18.util.ArrayInitializer;
-import by.itstep.klimenko.javalessons.lesson18.util.Convertor;
-import by.itstep.klimenko.javalessons.lesson18.view.Printer;
+import by.itstep.klimenko.javalessons.lesson18_19.util.ArrayInitializer;
+import by.itstep.klimenko.javalessons.lesson18_19.util.Convertor;
+import by.itstep.klimenko.javalessons.lesson18_19.view.Printer;
 
 import java.util.Scanner;
 
